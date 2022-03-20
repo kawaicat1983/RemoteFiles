@@ -1,0 +1,153 @@
+{
+    "Version": 1,
+    "_createdDate": -8586363211098461855,
+    "_lastModifiedDate": -8585545814362456164,
+    "SecondsPlayed": 9.30690860748291,
+    "GameProfile": {
+        "PlayerInventory": {
+            "_serializedItemInstances": [
+                {
+                    "_instanceID": {
+                        "_unityHash": {
+                            "i0": 157,
+                            "i1": 174,
+                            "i2": 239,
+                            "i3": 14,
+                            "i4": 122,
+                            "i5": 84,
+                            "i6": 171,
+                            "i7": 66,
+                            "i8": 140,
+                            "i9": 72,
+                            "i10": 8,
+                            "i11": 146,
+                            "i12": 238,
+                            "i13": 211,
+                            "i14": 224,
+                            "i15": 92
+                        }
+                    },
+                    "_itemID": {
+                        "_unityHash": {
+                            "i0": 30,
+                            "i1": 191,
+                            "i2": 234,
+                            "i3": 60,
+                            "i4": 40,
+                            "i5": 81,
+                            "i6": 143,
+                            "i7": 20,
+                            "i8": 248,
+                            "i9": 63,
+                            "i10": 25,
+                            "i11": 203,
+                            "i12": 62,
+                            "i13": 58,
+                            "i14": 102,
+                            "i15": 236
+                        }
+                    },
+                    "_jsonData": "{\"_amount\":1,\"_isNew\":true,\"_bestScore\":0.0,\"IsNewlyUnlocked\":false,\"MedalOne\":0,\"MedalTwo\":0,\"MedalThree\":0,\"MedalFour\":0,\"MedalFive\":0}"
+                },
+                {
+                    "_instanceID": {
+                        "_unityHash": {
+                            "i0": 172,
+                            "i1": 183,
+                            "i2": 14,
+                            "i3": 213,
+                            "i4": 212,
+                            "i5": 158,
+                            "i6": 153,
+                            "i7": 77,
+                            "i8": 129,
+                            "i9": 31,
+                            "i10": 221,
+                            "i11": 16,
+                            "i12": 239,
+                            "i13": 187,
+                            "i14": 96,
+                            "i15": 62
+                        }
+                    },
+                    "_itemID": {
+                        "_unityHash": {
+                            "i0": 3,
+                            "i1": 190,
+                            "i2": 70,
+                            "i3": 77,
+                            "i4": 143,
+                            "i5": 247,
+                            "i6": 10,
+                            "i7": 4,
+                            "i8": 203,
+                            "i9": 184,
+                            "i10": 215,
+                            "i11": 169,
+                            "i12": 51,
+                            "i13": 208,
+                            "i14": 212,
+                            "i15": 83
+                        }
+                    },
+                    "_jsonData": "{\"_amount\":1,\"_isNew\":true,\"_bestScore\":0.0,\"IsNewlyUnlocked\":false,\"MedalOne\":0,\"MedalTwo\":0,\"MedalThree\":0,\"MedalFour\":0,\"MedalFive\":0}"
+                }
+            ]
+        },
+        "LastLevelPlayedItemID": {
+            "_unityHash": {
+                "i0": 0,
+                "i1": 0,
+                "i2": 0,
+                "i3": 0,
+                "i4": 0,
+                "i5": 0,
+                "i6": 0,
+                "i7": 0,
+                "i8": 0,
+                "i9": 0,
+                "i10": 0,
+                "i11": 0,
+                "i12": 0,
+                "i13": 0,
+                "i14": 0,
+                "i15": 0
+            }
+        },
+        "NewlyUnlockedLevelItemID": {
+            "_unityHash": {
+                "i0": 0,
+                "i1": 0,
+                "i2": 0,
+                "i3": 0,
+                "i4": 0,
+                "i5": 0,
+                "i6": 0,
+                "i7": 0,
+                "i8": 0,
+                "i9": 0,
+                "i10": 0,
+                "i11": 0,
+                "i12": 0,
+                "i13": 0,
+                "i14": 0,
+                "i15": 0
+            }
+        },
+        "_totalCharactersCollided": 0,
+        "_totalCharactersLostToFightCloud": 0,
+        "_totalBonusPickupsCollected": 0,
+        "_totalObjectivesCollected": 0,
+        "_consecutiveWinCount": 0,
+        "_consecutiveLossCount": 0,
+        "_hasPlayedControllerRecommendedPopup": true,
+        "_hasPlayedSharedObjectiveMessage": false,
+        "_isDailyModeEnabled": false,
+        "_hasPlayedDailyModeTutorial": false,
+        "_lastPlayedTimeStamp": 0,
+        "_dailyScoreTodayBest": 0,
+        "_dailyScoreStarTotal": 0,
+        "_daysConcurrentPlay": 0,
+        "_daysConcurrentPlayAchievmentAwarded": false
+    }
+}

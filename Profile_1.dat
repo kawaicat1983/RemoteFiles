@@ -1,0 +1,368 @@
+{
+    "Version": 1,
+    "_createdDate": -8586363211098461855,
+    "_lastModifiedDate": -8585545814546265868,
+    "SecondsPlayed": 335.12628173828127,
+    "GameProfile": {
+        "PlayerInventory": {
+            "_serializedItemInstances": [
+                {
+                    "_instanceID": {
+                        "_unityHash": {
+                            "i0": 117,
+                            "i1": 182,
+                            "i2": 45,
+                            "i3": 212,
+                            "i4": 59,
+                            "i5": 17,
+                            "i6": 195,
+                            "i7": 74,
+                            "i8": 158,
+                            "i9": 50,
+                            "i10": 135,
+                            "i11": 142,
+                            "i12": 87,
+                            "i13": 218,
+                            "i14": 81,
+                            "i15": 102
+                        }
+                    },
+                    "_itemID": {
+                        "_unityHash": {
+                            "i0": 30,
+                            "i1": 191,
+                            "i2": 234,
+                            "i3": 60,
+                            "i4": 40,
+                            "i5": 81,
+                            "i6": 143,
+                            "i7": 20,
+                            "i8": 248,
+                            "i9": 63,
+                            "i10": 25,
+                            "i11": 203,
+                            "i12": 62,
+                            "i13": 58,
+                            "i14": 102,
+                            "i15": 236
+                        }
+                    },
+                    "_jsonData": "{\"_amount\":1,\"_isNew\":true,\"_bestScore\":0.0,\"IsNewlyUnlocked\":false,\"MedalOne\":0,\"MedalTwo\":0,\"MedalThree\":0,\"MedalFour\":0,\"MedalFive\":0}"
+                },
+                {
+                    "_instanceID": {
+                        "_unityHash": {
+                            "i0": 45,
+                            "i1": 196,
+                            "i2": 185,
+                            "i3": 118,
+                            "i4": 185,
+                            "i5": 104,
+                            "i6": 106,
+                            "i7": 66,
+                            "i8": 149,
+                            "i9": 213,
+                            "i10": 28,
+                            "i11": 233,
+                            "i12": 50,
+                            "i13": 95,
+                            "i14": 32,
+                            "i15": 238
+                        }
+                    },
+                    "_itemID": {
+                        "_unityHash": {
+                            "i0": 3,
+                            "i1": 190,
+                            "i2": 70,
+                            "i3": 77,
+                            "i4": 143,
+                            "i5": 247,
+                            "i6": 10,
+                            "i7": 4,
+                            "i8": 203,
+                            "i9": 184,
+                            "i10": 215,
+                            "i11": 169,
+                            "i12": 51,
+                            "i13": 208,
+                            "i14": 212,
+                            "i15": 83
+                        }
+                    },
+                    "_jsonData": "{\"_amount\":1,\"_isNew\":true,\"_bestScore\":10009.0,\"IsNewlyUnlocked\":false,\"MedalOne\":3,\"MedalTwo\":3,\"MedalThree\":3,\"MedalFour\":3,\"MedalFive\":0}"
+                },
+                {
+                    "_instanceID": {
+                        "_unityHash": {
+                            "i0": 16,
+                            "i1": 75,
+                            "i2": 205,
+                            "i3": 167,
+                            "i4": 110,
+                            "i5": 254,
+                            "i6": 112,
+                            "i7": 74,
+                            "i8": 185,
+                            "i9": 151,
+                            "i10": 83,
+                            "i11": 102,
+                            "i12": 68,
+                            "i13": 43,
+                            "i14": 71,
+                            "i15": 197
+                        }
+                    },
+                    "_itemID": {
+                        "_unityHash": {
+                            "i0": 22,
+                            "i1": 4,
+                            "i2": 137,
+                            "i3": 89,
+                            "i4": 238,
+                            "i5": 192,
+                            "i6": 78,
+                            "i7": 244,
+                            "i8": 249,
+                            "i9": 105,
+                            "i10": 230,
+                            "i11": 249,
+                            "i12": 190,
+                            "i13": 188,
+                            "i14": 243,
+                            "i15": 228
+                        }
+                    },
+                    "_jsonData": "{\"_amount\":1,\"_isNew\":true,\"_bestScore\":0.0,\"IsNewlyUnlocked\":false,\"MedalOne\":0,\"MedalTwo\":0,\"MedalThree\":0,\"MedalFour\":0,\"MedalFive\":0}"
+                },
+                {
+                    "_instanceID": {
+                        "_unityHash": {
+                            "i0": 219,
+                            "i1": 49,
+                            "i2": 134,
+                            "i3": 21,
+                            "i4": 23,
+                            "i5": 190,
+                            "i6": 226,
+                            "i7": 76,
+                            "i8": 162,
+                            "i9": 209,
+                            "i10": 253,
+                            "i11": 149,
+                            "i12": 113,
+                            "i13": 84,
+                            "i14": 148,
+                            "i15": 71
+                        }
+                    },
+                    "_itemID": {
+                        "_unityHash": {
+                            "i0": 62,
+                            "i1": 59,
+                            "i2": 73,
+                            "i3": 26,
+                            "i4": 138,
+                            "i5": 127,
+                            "i6": 186,
+                            "i7": 100,
+                            "i8": 42,
+                            "i9": 72,
+                            "i10": 54,
+                            "i11": 36,
+                            "i12": 10,
+                            "i13": 152,
+                            "i14": 224,
+                            "i15": 10
+                        }
+                    },
+                    "_jsonData": "{\"_amount\":1,\"_isNew\":true,\"HasBeenSeen\":true}"
+                },
+                {
+                    "_instanceID": {
+                        "_unityHash": {
+                            "i0": 180,
+                            "i1": 74,
+                            "i2": 44,
+                            "i3": 51,
+                            "i4": 68,
+                            "i5": 33,
+                            "i6": 138,
+                            "i7": 79,
+                            "i8": 129,
+                            "i9": 190,
+                            "i10": 207,
+                            "i11": 124,
+                            "i12": 185,
+                            "i13": 215,
+                            "i14": 143,
+                            "i15": 237
+                        }
+                    },
+                    "_itemID": {
+                        "_unityHash": {
+                            "i0": 78,
+                            "i1": 76,
+                            "i2": 94,
+                            "i3": 93,
+                            "i4": 11,
+                            "i5": 115,
+                            "i6": 244,
+                            "i7": 4,
+                            "i8": 42,
+                            "i9": 208,
+                            "i10": 136,
+                            "i11": 157,
+                            "i12": 53,
+                            "i13": 221,
+                            "i14": 205,
+                            "i15": 53
+                        }
+                    },
+                    "_jsonData": "{\"_amount\":1,\"_isNew\":true,\"HasBeenSeen\":true}"
+                },
+                {
+                    "_instanceID": {
+                        "_unityHash": {
+                            "i0": 7,
+                            "i1": 92,
+                            "i2": 8,
+                            "i3": 159,
+                            "i4": 215,
+                            "i5": 233,
+                            "i6": 88,
+                            "i7": 67,
+                            "i8": 166,
+                            "i9": 119,
+                            "i10": 105,
+                            "i11": 150,
+                            "i12": 65,
+                            "i13": 135,
+                            "i14": 165,
+                            "i15": 111
+                        }
+                    },
+                    "_itemID": {
+                        "_unityHash": {
+                            "i0": 163,
+                            "i1": 102,
+                            "i2": 189,
+                            "i3": 30,
+                            "i4": 209,
+                            "i5": 83,
+                            "i6": 57,
+                            "i7": 52,
+                            "i8": 42,
+                            "i9": 58,
+                            "i10": 25,
+                            "i11": 185,
+                            "i12": 125,
+                            "i13": 83,
+                            "i14": 75,
+                            "i15": 11
+                        }
+                    },
+                    "_jsonData": "{\"_amount\":1,\"_isNew\":true,\"HasBeenSeen\":true}"
+                },
+                {
+                    "_instanceID": {
+                        "_unityHash": {
+                            "i0": 49,
+                            "i1": 72,
+                            "i2": 55,
+                            "i3": 187,
+                            "i4": 114,
+                            "i5": 15,
+                            "i6": 110,
+                            "i7": 71,
+                            "i8": 175,
+                            "i9": 9,
+                            "i10": 32,
+                            "i11": 217,
+                            "i12": 187,
+                            "i13": 162,
+                            "i14": 122,
+                            "i15": 126
+                        }
+                    },
+                    "_itemID": {
+                        "_unityHash": {
+                            "i0": 226,
+                            "i1": 8,
+                            "i2": 147,
+                            "i3": 158,
+                            "i4": 30,
+                            "i5": 103,
+                            "i6": 0,
+                            "i7": 164,
+                            "i8": 203,
+                            "i9": 83,
+                            "i10": 185,
+                            "i11": 247,
+                            "i12": 238,
+                            "i13": 231,
+                            "i14": 103,
+                            "i15": 97
+                        }
+                    },
+                    "_jsonData": "{\"_amount\":1,\"_isNew\":true,\"HasBeenSeen\":true}"
+                }
+            ]
+        },
+        "LastLevelPlayedItemID": {
+            "_unityHash": {
+                "i0": 22,
+                "i1": 4,
+                "i2": 137,
+                "i3": 89,
+                "i4": 238,
+                "i5": 192,
+                "i6": 78,
+                "i7": 244,
+                "i8": 249,
+                "i9": 105,
+                "i10": 230,
+                "i11": 249,
+                "i12": 190,
+                "i13": 188,
+                "i14": 243,
+                "i15": 228
+            }
+        },
+        "NewlyUnlockedLevelItemID": {
+            "_unityHash": {
+                "i0": 0,
+                "i1": 0,
+                "i2": 0,
+                "i3": 0,
+                "i4": 0,
+                "i5": 0,
+                "i6": 0,
+                "i7": 0,
+                "i8": 0,
+                "i9": 0,
+                "i10": 0,
+                "i11": 0,
+                "i12": 0,
+                "i13": 0,
+                "i14": 0,
+                "i15": 0
+            }
+        },
+        "_totalCharactersCollided": 3,
+        "_totalCharactersLostToFightCloud": 1,
+        "_totalBonusPickupsCollected": 0,
+        "_totalObjectivesCollected": 64,
+        "_consecutiveWinCount": 1,
+        "_consecutiveLossCount": 0,
+        "_hasPlayedControllerRecommendedPopup": true,
+        "_hasPlayedSharedObjectiveMessage": false,
+        "_isDailyModeEnabled": true,
+        "_hasPlayedDailyModeTutorial": true,
+        "_lastPlayedTimeStamp": 1646118000000,
+        "_dailyScoreTodayBest": 9999,
+        "_dailyScoreStarTotal": 10519,
+        "_daysConcurrentPlay": 0,
+        "_daysConcurrentPlayAchievmentAwarded": false
+    }
+}
